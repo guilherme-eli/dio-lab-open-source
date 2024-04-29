@@ -1,6 +1,6 @@
 # Guilherme Eli
 
-### Estudande de Desenvolvimneto de sistema e Analista de Dado pelo SENAC 
+### Estudante de Desenvolvimento de sistema e Analista de Dado pelo SENAC
 
 Estou constantemente em busca de novos desafios e oportunidades de crescimento. 
 
